@@ -9,10 +9,10 @@ module.exports = async ({ api, event }) => {
     },
     greetings: {
       status: true,
-      morning: `goodmorning everyone, have a nice day.`,
-      afternoon: `goodafternoon everyone, don't forget to eat your lunch.`,
-      evening: `goodevening everyone, don't forget to eat.`,
-      sleep: `goodnight everyone, time to sleep.`,
+      morning: `ঘুম থেকে উঠো বাচ্চারা🦆🤝`,
+      afternoon: `মরা গ্রুপ 🙂`,
+      evening: `কেউ নাই যাইগা.`,
+      sleep: `হালারস মোবাইল রেখে ঘুমা.`,
       note: 'greetings every morning, afternoon and evening. the timezone is located in Asia/Manila'
     },
     accpetPending: {
