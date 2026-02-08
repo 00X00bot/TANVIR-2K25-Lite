@@ -4,6 +4,8 @@ module.exports = {
     version: "1.0",
     credis: "BaYjid",
     permission: 2,
+    usePrefix: true,
+    premium: true,
     shortDescription: "chodo",
     longDescription: "Gen Z Roast",
     category: "fun",
